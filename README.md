@@ -12,10 +12,10 @@ Participants are challenged to recognize all levels of granularity of the surgic
 
 The algorithms must be applicable for online applications, i.e., future frames can’t be used for workflow prediction.
 
-![alt text](https://github.com/Michakun/Surgical-Workflow-Recogntion/blob/master/Images/PETRAW.PNG)
+![alt text](https://github.com/Michakun/Surgical-Workflow-Recogntion/blob/main/Images/PETRAW.PNG?raw=true)
 
 ## Methodology description
 
 Based on the state-of-the-art study that was conducted, and in order to establish a baseline for the PETRAW challenge, a model combining a feature extractor and a temporal network was the first choice when using video data as input.
 
-![alt text](https://github.com/Michakun/Surgical-Workflow-Recogntion/blob/master/Images/Architecture.PNG?raw=true)
+![alt text](https://github.com/Michakun/Surgical-Workflow-Recogntion/blob/main/Images/Architecture.PNG?raw=true)
